@@ -25,7 +25,7 @@ SECRET_KEY = 'vz2^x5((g2w3bjm42xmmisotnd#+^#4(#ae*on9tr&-x69++kq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<SimplyZoie>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','SimplyZoie.pythonanywhere.com']
 
 
 # Application definition
